@@ -1,4 +1,5 @@
 # From Architecture to Data Analytics: Dashboard Design in Power BI & DAX
+https://medium.com/@thanankangsawiwat/%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%9B%E0%B8%B1%E0%B8%95%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B9%E0%B9%88-data-analytics-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A-dashboard-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-design-thinking-in-power-bi-%E0%B9%81%E0%B8%A5%E0%B8%B0-dax-6bb7a5fa7a2f  
 
 ## Description
 Data analytics project using the **Superstore dataset** with **Power BI and DAX**.  
